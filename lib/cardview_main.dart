@@ -39,8 +39,8 @@ class MyApp extends StatelessWidget {
               ),
             ),
             ListTile(
-              title: const Text('Title 5'),
-              subtitle: const Text('Subtitle 5'),
+              title: const Text('Title 3'),
+              subtitle: const Text('Subtitle 3'),
               trailing: Row(
                 mainAxisSize: MainAxisSize.min,
                 children: const [
